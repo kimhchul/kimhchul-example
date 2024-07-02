@@ -1,0 +1,2 @@
+module kimhchul.example {
+}
